@@ -6,6 +6,6 @@ Physics at NAWI Graz
 Software Engineering and Management at TU Graz.
 
 - 🔭 I’m currently working on my physics homework
-- 🌱 I’m currently learning to debug \LaTeX
+- 🌱 I’m currently debugging \LaTeX
 - 💬 Ask me about Cryptos
 - 📫 How to reach me: post pigeon between work hours Monday through Friday
